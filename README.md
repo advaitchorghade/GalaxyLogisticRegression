@@ -20,3 +20,6 @@ Our data has split the types of galaxies in 10 catagorgories.
 It is thought the milky way is of *disk, face on, tight spiral* or *disk, face on med spiral*.
 
 Logistic regression or classification is a binary classification, hence we cannot detect multiple classifications. Therefore, I have decided to differentiate between 'milky way' like galaxies and 'not milky way' galaxies. 
+
+
+*Thanks to AstroNN for supplying the Galaxy10 database*
