@@ -21,5 +21,7 @@ It is thought the milky way is of *disk, face on, tight spiral* or *disk, face o
 
 Logistic regression or classification is a binary classification, hence we cannot detect multiple classifications. Therefore, I have decided to differentiate between 'milky way' like galaxies and 'not milky way' galaxies. 
 
+With this complete, I now plan to classify individual galaxies instead of binary classification.  
+
 
 *Thanks to AstroNN for supplying the Galaxy10 database*
